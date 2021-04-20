@@ -13,6 +13,7 @@
 		C0AFC067262E4BC900E0E214 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0AFC065262E4BC900E0E214 /* Main.storyboard */; };
 		C0AFC069262E4BCB00E0E214 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C0AFC068262E4BCB00E0E214 /* Assets.xcassets */; };
 		C0AFC06C262E4BCB00E0E214 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C0AFC06A262E4BCB00E0E214 /* LaunchScreen.storyboard */; };
+		C0B73C55262EFD9500749502 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = C0B73C54262EFD9500749502 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C0AFC068262E4BCB00E0E214 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C0AFC06B262E4BCB00E0E214 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C0AFC06D262E4BCB00E0E214 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C0B73C54262EFD9500749502 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		C0AFC053262E4BC900E0E214 = {
 			isa = PBXGroup;
 			children = (
+				C0B73C54262EFD9500749502 /* readme.md */,
 				C0AFC05E262E4BC900E0E214 /* Magic-8-Ball */,
 				C0AFC05D262E4BC900E0E214 /* Products */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				C0AFC06C262E4BCB00E0E214 /* LaunchScreen.storyboard in Resources */,
 				C0AFC069262E4BCB00E0E214 /* Assets.xcassets in Resources */,
+				C0B73C55262EFD9500749502 /* readme.md in Resources */,
 				C0AFC067262E4BC900E0E214 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
